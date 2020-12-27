@@ -9,6 +9,8 @@
 
 ![My name card : Soheon Lee](https://images.velog.io/images/brighten_the_way/post/cb552108-a7d0-4ef9-a6c4-a96bafb6ff3d/image.png)
 
+<div align="center">
+
 
 #### My Friends ✨
 
@@ -20,10 +22,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>
 
-</div>
 
 #### Visit Me ✨
-<a href="링크걸_주소"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=내링크"/></a>&nbsp
+<a href="https://www.instagram.com/what_soso_ever/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=내링크"/></a>
+</div>
 
 
 
