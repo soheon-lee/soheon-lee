@@ -27,7 +27,8 @@
 
 
 #### Visit Me ✨
-<a href="https://www.instagram.com/what_soso_ever/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=내링크"/></a> 
+<a href="https://www.instagram.com/what_soso_ever/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=내링크"/></a>
+<a href="https://wecode.co.kr/"><img src="https://img.shields.io/badge/>%20wecode-000000?style=flat-square"/></a> 
 </div>
 
 
